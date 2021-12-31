@@ -1,7 +1,7 @@
 <?php
 
 session_start();
-$conn = mysqli_connect('localhost', 'root', '' , 'covidcare19') or die ('Unable to connect');
+$conn = mysqli_connect('localhost', 'id18147862_covidcare19', '' , 'covidcare19') or die ('Unable to connect');
 
 ?>
 
